@@ -1,7 +1,7 @@
-# This project is a modification of libdash library of Bitmobin.(https://github.com/bitmovin/libdash)
-# Using this you can download into mat frame from  any MPEG-DASH file (.mpd) fromm http server.
+## This project is a modification of libdash library of Bitmobin.(https://github.com/bitmovin/libdash)
+## Using this you can download into mat frame from  any MPEG-DASH file (.mpd) from http server.
 
-# Installation Process
+## Installation Process
 
 ## How to use
 
